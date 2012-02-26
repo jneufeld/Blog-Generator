@@ -1,0 +1,21 @@
+[title]Post Title[/title]
+
+[p]
+Paragraphs make up the brunt of a blog post.
+[/p]
+
+[list]
+[li] I [/li]
+[li] Love [/li]
+[li] Lists![/li]
+[/list]
+
+[p]
+[b]Some bold and [i]italic[/i] text[/b].
+[/p]
+
+[p]
+[url=http://example.org\]Links too[/url]
+[/p]
+
+[gist=1426359\gist]
